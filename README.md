@@ -1,1 +1,1 @@
-# C-104-project
+# PROJECT-104-MEAN-MEDIAN-MODE
